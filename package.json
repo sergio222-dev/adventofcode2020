@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "day one": "node \"day 1/part_one.js\""
+    "day one part 1": "node \"day 1/part_one.js\"",
+    "day one part 2": "node \"day 1/part_two.js\""
   },
   "type": "module",
   "repository": {
